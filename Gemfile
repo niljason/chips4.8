@@ -69,3 +69,4 @@ end
 group :production do
   gem 'pg', '1.6.0.rc1' # for Heroku deployment
 end
+
